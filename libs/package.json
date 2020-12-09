@@ -1,7 +1,0 @@
-{
-    "name": "GD32E23x_Firmware_Library",
-    "description": "GD32E230 Firmware Library",
-    "system": "*",
-    "url": "*",
-    "version": "1.0.0"
-}

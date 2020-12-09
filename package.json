@@ -1,0 +1,15 @@
+{
+    "name":"GD32E230",
+    "Core":"Cortex M23",
+    "Vendor":"GigaDevice",
+    "description":"Cortex M23 GD32E230 MCU",
+    "url":"https://github.com/SoCXin/GD32E230",
+    "keywords": [
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "72MHz",
+        "LQFP48","LQFP32","QFN32",
+        "3.6V","1.8V"
+    ],
+    "homepage": "http://www.SoC.xin",
+    "version":"1.0.0"
+}
