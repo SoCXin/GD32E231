@@ -1,20 +1,20 @@
 {
     "type":"MCU",
-    "name":"GD32E230",
+    "name":"GD32E231",
     "Freq":"72MHz",
     "Core":"Cortex-M23",
-    "title": "GigaDevice GD32E230 MCU",
+    "title": "GigaDevice GD32E231 MCU",
     "description":"GigaDevice Cortex-M23 MCU",
     "manufacturer": {
         "vendor":"gigadevice",
-        "homepage":"https://www.gigadevice.com/zh-hans/products/microcontrollers/gd32/arm-cortex-m4/?fwp_processor_type=cortex-m4&fwp_microcontrollers_product_series=GD32E230"
+        "homepage":"https://www.gigadevice.com/zh-hans/products/microcontrollers/gd32/arm-cortex-m4/?fwp_processor_type=cortex-m4&fwp_microcontrollers_product_series=GD32E231"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/SoCXin/GD32E230.git"
+        "url": "https://github.com/SoCXin/GD32E231.git"
     },
     "version":"1.0.0",
-    "series":["GD32E230KC","GD32E230JC","GD32E230KE","GD32E230PE"],
+    "series":["GD32E231KC","GD32E231JC","GD32E231KE","GD32E231PE"],
     "package":["UFBGA100","LQFP100","LQFP64","LQFP48","QFN60","QFN48"],
     "peripheral": ["ADC","UART","I2C","SPI","PWM"],
     "keywords": [
